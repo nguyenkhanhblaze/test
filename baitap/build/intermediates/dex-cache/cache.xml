@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Latitude\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Latitude\Documents\GitHub\nguyenkhanh\baitap\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_edb040e64629d8126436564a50a2f00a35c3a581.jar" />
+    </item>
+    <item
+        jar="C:\Users\Latitude\Documents\GitHub\nguyenkhanh\baitap\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Latitude\Documents\GitHub\nguyenkhanh\baitap\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_7786a58014914309230795e761bfa86c6394717e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Latitude\Documents\GitHub\nguyenkhanh\baitap\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Latitude\Documents\GitHub\nguyenkhanh\baitap\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_ebbd08548415a17e8c0e9aea3f357da0907b963f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Latitude\Documents\GitHub\nguyenkhanh\baitap\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Latitude\Documents\GitHub\nguyenkhanh\baitap\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_0549fba3e96b86a8ab68020a1b09ce9e783c8f3e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Latitude\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\5.1.1\b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8\butterknife-5.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8">
+        <dex dex="C:\Users\Latitude\Documents\GitHub\nguyenkhanh\baitap\app\build\intermediates\pre-dexed\debug\butterknife-5.1.1_699bd74bafee21078469042f349a12c2ab419bb4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Latitude\Documents\GitHub\nguyenkhanh\baitap\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Latitude\Documents\GitHub\nguyenkhanh\baitap\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_3ca7e5b9b7fd8fa67f743c9e345abe1edbd9745f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Latitude\Documents\GitHub\nguyenkhanh\baitap\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Latitude\Documents\GitHub\nguyenkhanh\baitap\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_81f0a10d260144bab7786895d4b74864401aeb6a.jar" />
+    </item>
+
+</items>
